@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alviriza Ramadhan
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Alviriza Ramadhan
 =========================================================================================================================================
 
 Fullstack Web Developer
 -----------------------
 
-I am a 6th semester student who has skills in the field of fullstack web developer. besides that, I also have good teamwork, leadership, and public speaking skills and have a lot of organizational experience
+I am a 6th semester student who has skills in the field of fullstack web developer. besides that, I also have good teamwork, leadership, and public speaking skills and have a lot of organizational experience.
 
 * 🌍  I'm based in Surabaya, Indonesia
 * 🖥️  See my portfolio at [Alviriza's Portofolio](http://alvirizaramadhan.com)
