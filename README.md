@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **Data Science & Data Analytics**
 
-- 👨‍💻 All of my projects are available at [alvirizaramadhan.com](alvirizaramadhan.com)
+- 👨‍💻 All of my projects are available at [My Portofolio](alvirizaramadhan.com)
 
-- 📝 I regularly write articles on [medium.com/@alviriza](medium.com/@alviriza)
+- 📝 I regularly write articles on [Medium](medium.com/@alviriza)
 
 - 💬 Ask me about **python, sql, tableau**
 
-- 📫 How to reach me **dienalvira@gmail.com**
+- 📫 You can reach me at **dienalvira@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vc66EjiSxDzaiFTCc1gzJ1Gm8JSCJOKZ/view?usp=sharing](https://drive.google.com/file/d/1vc66EjiSxDzaiFTCc1gzJ1Gm8JSCJOKZ/view?usp=sharing)
+- 📄 Know about my experiences [Alviriza's Resume](https://drive.google.com/file/d/1vc66EjiSxDzaiFTCc1gzJ1Gm8JSCJOKZ/view?usp=sharing)
 
 - ⚡ I'm good at **Leadership, teamwork, and public speaking**
 
@@ -28,6 +28,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alviriza&show_icons=true&locale=en&layout=compact" alt="alviriza" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alviriza&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="alviriza" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alviriza&show_icons=true&locale=en" alt="alviriza" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alviriza&show_icons=true&theme=tokyonight&locale=en" alt="alviriza" /></p>
