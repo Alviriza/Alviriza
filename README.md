@@ -4,17 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alviriza&label=Profile%20views&color=0e75b6&style=flat" alt="alviriza" /> </p>
 
 - 🌱 I’m currently learning **Data Science & Data Analytics**
-
 - 👨‍💻 All of my projects are available at [My Portofolio](alvirizaramadhan.com)
-
 - 📝 I regularly write articles on [Medium](medium.com/@alviriza)
-
 - 💬 Ask me about **python, sql, tableau**
-
 - 📫 You can reach me at **dienalvira@gmail.com**
-
 - 📄 Know about my experiences [Alviriza's Resume](https://drive.google.com/file/d/1vc66EjiSxDzaiFTCc1gzJ1Gm8JSCJOKZ/view?usp=sharing)
-
 - ⚡ I'm good at **Leadership, teamwork, and public speaking**
 
 <h3 align="left">Connect with me:</h3>
